@@ -1,0 +1,25 @@
+#LB {
+  background-color: red;
+  width: 300px;
+  padding: 5px;
+  border-width: 5px;
+  border-color: blue;
+  border-style: solid;
+  margin: 125px;
+  float:left;
+}
+
+#RB {
+  background-color: blue;
+  width: 300px;
+  padding: 5px;
+  border-width: 5px;
+  border-color: red;
+  border-style: solid;
+  margin: 125px;
+  float:left;
+}
+
+#AMH {
+  text-align: center;
+}
